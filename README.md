@@ -29,8 +29,10 @@ This project is a Book Recommendation System built using Python and the Tkinter 
    
        source book/bin/activate
        
-4. **Install required packages:**
+3. **Install required packages:**
+   
   pip install pillow
+  
   pip install requests
 
 ## Dependencies
