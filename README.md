@@ -21,12 +21,12 @@ This project is a Book Recommendation System built using Python and the Tkinter 
    virtualenv book
 2. **Activate the virtual environment:**
    
-  **On Windows:**
-    .\book\Scripts\activate
+     **On Windows:**
+       .\book\Scripts\activate
    
-  **On macOS/Linux:**
-    source book/bin/activate
-    
+     **On macOS/Linux:**
+       source book/bin/activate
+       
 3. **Install required packages:**
   pip install pillow
   pip install requests
