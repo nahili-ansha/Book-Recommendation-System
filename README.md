@@ -43,7 +43,7 @@ This project is a Book Recommendation System built using Python and the Tkinter 
 1. **Create a virtual environment:**
    ```sh
    pip install virtualenv
-   virtualenv book
+   virtualenv book # 'book' is just a name for the virtual environment, you can choose any name
 2. **Activate the virtual environment:**
    
      **On Windows:**
