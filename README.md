@@ -38,10 +38,10 @@ This project is a Book Recommendation System built using Python and the Tkinter 
 ## Dependencies
   - Pillow: 10.3.0
   - Requests: 2.32.2
-  - certifi: 2024.2.2
-  - charset-normalizer: 3.3.2
-  - idna: 3.7
-  - urllib3: 2.2.1
+     - certifi: 2024.2.2
+     - charset-normalizer: 3.3.2
+     - idna: 3.7
+     - urllib3: 2.2.1
 
 ## Project Structure
 main.py: The main script containing the code for the Book Recommendation System.
