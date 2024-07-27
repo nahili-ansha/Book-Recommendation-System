@@ -31,9 +31,9 @@ This project is a Book Recommendation System built using Python and the Tkinter 
        
 3. **Install required packages:**
    
-  pip install pillow
-  
-  pip install requests
+     pip install pillow
+     
+     pip install requests
 
 ## Dependencies
   - Pillow: 10.3.0
