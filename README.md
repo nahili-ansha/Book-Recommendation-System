@@ -45,6 +45,7 @@ This project is a Book Recommendation System built using Python and the Tkinter 
 
 ## Project Structure
 main.py: The main script containing the code for the Book Recommendation System.
+
 images folder: Contains images used in the application (icon, background, logo, etc.).
 
 ## Usage
