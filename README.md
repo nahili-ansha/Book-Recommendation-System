@@ -44,9 +44,9 @@ This project is a Book Recommendation System built using Python and the Tkinter 
      - urllib3: 2.2.1
 
 ## Project Structure
-## main.py: The main script containing the code for the Book Recommendation System.
+## main.py ##: The main script containing the code for the Book Recommendation System.
 
-## images folder: Contains images used in the application (icon, background, logo, etc.).
+## images folder ##: Contains images used in the application (icon, background, logo, etc.).
 
 ## Usage
 python main.py
