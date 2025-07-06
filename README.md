@@ -3,6 +3,10 @@
 ## Description
 This project is a Book Recommendation System built using Python and the Tkinter library. It allows users to search for books, view their details, and display book covers using the Google Books API. The interface provides options to display additional information such as the publication date and average rating of the books.
 
+![Demo](https://github.com/nahili-ansha/Book-Recommendation-System/blob/main/Book_Recommendation_System.png
+)
+
+
 ## Features
 - **Search for Books:** Users can search for books using the Google Books API.
 - **Display Book Details:** The system fetches and displays book titles, covers, publication dates, and ratings.
